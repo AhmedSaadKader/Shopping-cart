@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    /* background-color: #d1c8c8; */
+    box-shadow: 2px 2px rgb(0 0 0 /10%);
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: space-around;
+    font-weight: 500;
+}
+
+.userDiv {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.userIcon {
+    width: 40px;
+    border-radius: 30%;
+}
